@@ -7,7 +7,7 @@ A chess application with a graphical interface and the ability to play both agai
 
 # Run the application
 unzip the archive and run 
-    <main.py>
+    main.py
 file from the directory where the archive was unpacked
 
 # Engine features that are implemented
@@ -31,4 +31,9 @@ file from the directory where the archive was unpacked
 - pygame 1.9.8 or higher
 - numpy
 - sqlite3
+
+# Example screenshot
+![image](https://user-images.githubusercontent.com/44743531/161582452-65b10335-af17-49d3-a6f9-cdabd28d8433.png)
+![image](https://user-images.githubusercontent.com/44743531/161582545-433c4ca6-94ac-4d98-8d79-c5af4023bfb4.png)
+
 
