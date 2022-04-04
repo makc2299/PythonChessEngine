@@ -1,5 +1,5 @@
 # PythonChessEngine
-A chess application with a graphical interface and the ability to play both against the player (on the same computer) and against the computer.
+A chess application with a graphical interface and the ability to play both against the player (on the same computer) and against the computer. Implemented all standart chess rules.
 
 ![image](https://user-images.githubusercontent.com/44743531/161577543-081d6e2d-9be2-48d1-8f16-517b3fbd7afd.png)
 
@@ -31,3 +31,4 @@ file from the directory where the archive was unpacked
 - pygame 1.9.8 or higher
 - numpy
 - sqlite3
+
