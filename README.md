@@ -33,7 +33,8 @@ file from the directory where the archive was unpacked
 - sqlite3
 
 # Example screenshot
-![image](https://user-images.githubusercontent.com/44743531/161582769-017d6723-9c86-4843-8222-bfab9fd77d84.png)
+![image](https://user-images.githubusercontent.com/44743531/161583244-4dde7b01-152b-4395-af44-cf98d24c71e1.png)
+
 
 ![image](https://user-images.githubusercontent.com/44743531/161583141-67c41d5c-2bf4-4290-b47a-655ef9757db4.png)
 
