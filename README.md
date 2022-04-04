@@ -35,5 +35,6 @@ file from the directory where the archive was unpacked
 # Example screenshot
 ![image](https://user-images.githubusercontent.com/44743531/161582769-017d6723-9c86-4843-8222-bfab9fd77d84.png)
 
-![image](https://user-images.githubusercontent.com/44743531/161582883-fa3eed27-1d29-4070-a293-3c83487c7caf.png)
+![image](https://user-images.githubusercontent.com/44743531/161583073-4bc79768-e6c9-400e-9df2-382066659433.png)
+
 
